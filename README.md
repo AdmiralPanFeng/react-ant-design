@@ -1,4 +1,4 @@
-这是一个react + [antd] (https://ant.design/)做的网站.<br>
+这是一个react + [antd] (https://ant.design/).<br>
 ## 使用方法
 
 - 下载好之后执行以下命令
