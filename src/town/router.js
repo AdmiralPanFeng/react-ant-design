@@ -1,7 +1,7 @@
 /**
  * Created by GuYang on 2017/8/15.
  */
-export const townRoute = {
+export const townRouter = {
     path:'/town',
     indexRoute:{onEnter:(state,replace)=>replace('/town/user')},
     childRoutes:[

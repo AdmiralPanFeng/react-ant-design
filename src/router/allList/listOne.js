@@ -2,8 +2,7 @@
  * Created by GuYang on 2017/8/15.
  */
 import React from 'react';
-import './style.css';
-import ContentWrap from './contentWrap';
+import ContentWrap from '../contentWrap';
 const MENUDATA=[
     {
         name: '恭王府一游',

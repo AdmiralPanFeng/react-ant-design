@@ -1,7 +1,7 @@
 /**
  * Created by GuYang on 2017/8/15.
  */
-export const aboutRoute = {
+export const aboutRouter = {
     path:'/about',
     indexRoute:{onEnter:(state,replace)=>replace('/about/user')},
     childRoutes:[

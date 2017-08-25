@@ -5,7 +5,7 @@ import React from 'react';
 import 'antd/dist/antd.css';
 import { Breadcrumb } from 'antd';
 import GalleryByReactApp from './GalleryByReactApp';
-class userList extends React.Component{
+class UserList extends React.Component{
     render(){
         return (
             <div>
@@ -20,4 +20,4 @@ class userList extends React.Component{
         )
     }
 }
-export default userList;
+export default UserList;

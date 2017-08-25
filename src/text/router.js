@@ -1,7 +1,7 @@
 /**
  * Created by GuYang on 2017/8/15.
  */
-export const textRoute = {
+export const textRouter = {
     path:'/text',
     indexRoute:{onEnter:(state,replace)=>replace('/text/user')},
     childRoutes:[

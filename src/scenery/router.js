@@ -1,7 +1,7 @@
 /**
  * Created by GuYang on 2017/8/15.
  */
-export const sceneryRoute = {
+export const sceneryRouter = {
     path:'/scenery',
     indexRoute:{onEnter:(state,replace)=>replace('/scenery/user')},
     childRoutes:[
